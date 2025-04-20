@@ -9,7 +9,7 @@
     
 body {
     height: 100vh;
-    background: url("WW_win95_v004_dark_post.png") no-repeat center / cover;
+    background: url("background.png") no-repeat center / cover;
     padding: 50px 5%;
 }
 
